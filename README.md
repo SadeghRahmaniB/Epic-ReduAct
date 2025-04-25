@@ -1,6 +1,6 @@
 # Epic-ReduAct Dataset
 
-We carefully curated a dataset to compare human and AI vision capabilities, called **Epic-ReduAct**. This dataset is derived from the standard egocentric kitchen activity dataset, [EPIC-KITCHENS-100](https://epic-kitchens.github.io/2025), and systematically reduces both spatial and temporal information.
+We carefully curated a dataset to compare human and AI vision capabilities, called **Epic-ReduAct**. This dataset is derived from the standard egocentric kitchen activity dataset, [EPIC-KITCHENS-100](https://epic-kitchens.github.io/2025), and systematically reduces spatial information.
 
 ## Overview
 
