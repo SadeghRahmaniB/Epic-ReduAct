@@ -26,13 +26,13 @@ The cropping process is illustrated below for a video with the ground truth labe
 
 ### Cropping Process Illustration
 
-![Cropping Process](reduction_flow.png)
+![Cropping Process](images/reduction_flow.png)
 
 ---
 
 ### Cropped area for three different levels
 
-![spatial feature loss](spatial_feature_loss.png)
+![spatial feature loss](images/spatial_feature_loss.png)
 
 ## Annotation Guidelines
 
